@@ -48,7 +48,7 @@ abstract class AppTheme {
         fontFamily: "Poppins",
         fontSize: 16,
         fontWeight: FontWeight.w500,
-        color: AppColors.lightMainText,
+        color: AppColors.lightSecText,
       ),
       bodyMedium: TextStyle(
         fontFamily: "Poppins",

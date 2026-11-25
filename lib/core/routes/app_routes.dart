@@ -1,4 +1,4 @@
 abstract class AppRoutes {
-  static String initRoute = "/";
-  static String onBoardingRoute = "/onBoarding";
+  static const String initRoute = "/";
+  static const String onBoardingRoute = "/onBoarding";
 }
